@@ -17,8 +17,33 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BlNnF1NnNrOXJtNW4waXkycTI4Zjdna2NxZmY5c2lvaWFmYjMxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sPDUNDSqyso9w225QL/giphy.gif" width="80px"/>
 </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmkyN3l1ZWN2dHpqbzJ3dWg1Nms4bjc3OTRyczE2c2p0ZTJ3NG4xaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="300"/>
+</div>
 
-Trying to be data analyst!😅 
+---
+
+### :man_technologist: Обо мне:
+Я начинающий аналитик данных <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZjdXpyeGxsbzBrZzdzcXd2Z3NucDF1azNnYmJ5amNiYWh0NHA2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> из Санкт-Петербурга.
+- 📖 На данный момент изучаю аналитику данных с помощью курсов, статьей и видео на Youtube.
+- 🏫 Обучаюсь на 1-ом курсе магистратуры ИТМО.
+- 💻 В свободное время решаю задачи на LeetCode и SQL-EX
+
+---
+
+### :hammer_and_wrench: Языки программирования и инструменты :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"  title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/PNG/Desktop.png" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
 <!---
 Arpiannn/Arpiannn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to tahttps://github.com/Arpiannn/Arpiannn/tree/mainke a look at your changes.
